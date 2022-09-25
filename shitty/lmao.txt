@@ -1,4 +1,3 @@
-WorldClient.dll
 EggClient.dll
 Area51.dll
 ZeroDay.dll
