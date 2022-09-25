@@ -1,4 +1,4 @@
 WorldClient.dll
-GenisisClient.dll
+EggClient.dll
 Area51.dll
 ZeroDay.dll
